@@ -1,10 +1,10 @@
 <img src="https://i.ibb.co/s9YKCSrZ/Mask-group-9.png" width="100%">
 
  ## 🧑🏻 About me
+
+- 👨‍🎓 Graduated in **Systems Analysis and Development**;
  
 - 👨‍🎓 Graduated in **Computer Technician**;
-
-- 👨‍🎓 Graduating in **Systems Analysis and Development**;
 
 - 💡 Community Manager **[Code Warriors](https://codewarriorsdevs.vercel.app/)**;
 
