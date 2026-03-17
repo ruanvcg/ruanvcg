@@ -6,8 +6,6 @@
  
 - 👨‍🎓 Graduated in **Computer Technician**;
 
-- 💡 Community Manager **[Code Warriors](https://codewarriorsdevs.vercel.app/)**;
-
 - 📝 Writting on **[Devto](https://dev.to/ruanvictordev)**;
 
 - 🚀 Access my **[Portfolio](https://ruanvictordev.com/)**;
